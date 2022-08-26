@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SomeshwarSharma
-- 👀 I’m interested in working with new ideas
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ideas
-- 📫 Mail me if you like to work with me on sharmasomeshwar3@gmail.com
+Hi, I’m @Someshwar Sharma
+I like working as a backend developer.
+I’m currently learning rust , node.js
+I have created some project feel free to checkout and review them projects are based on flutter , php , java technologies.
+also do check out my linkdin profile.
+https://www.linkedin.com/in/someshwar-sharma-68068019a/
 
 <!---
 SomeshwarSharma/SomeshwarSharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
